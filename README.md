@@ -27,4 +27,4 @@ In order to run the project first install all javascript libraries and then inst
 ```
 
 # Observations
-The project contains only a `yarn.lock`, so Yarn is mostly needed to install all dependecies correctly. Also keep in mind Node (npm) should be already installed on your machine.
+The project contains both `yarn.lock` and `package-lock.json`, so either Yarn or NPM are good to use, but Yarn is preferable because is faster. Also keep in mind Node (npm) should be already installed on your machine.
