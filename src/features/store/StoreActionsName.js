@@ -1,0 +1,1 @@
+export const GET_ALL_STORES = 'GET_ALL_STORES'
